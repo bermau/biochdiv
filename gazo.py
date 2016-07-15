@@ -1,7 +1,7 @@
 # file : gazometries
 
 
-
+# modification depuis labo 
 pH = 7.21
 pCO2 = 42
 pO2 = 198
